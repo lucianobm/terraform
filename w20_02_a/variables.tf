@@ -25,6 +25,6 @@ variable "jenkins_instance_name" {
 }
 
 variable "jenkins_bucket" {
-    type = string
-    default = "jenkins-8534674"
+  type    = string
+  default = "jenkins-8534674"
 }
