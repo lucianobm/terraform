@@ -30,3 +30,9 @@ override.tf.json
 
 # infracost files
 **/.infracost/*
+
+# lab files
+lab/*
+learn-terraform-aws-instance/*
+tfmoduledemo/*
+w21_02_a-module/*
